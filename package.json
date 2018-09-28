@@ -1,6 +1,6 @@
 {
   "name": "php-array-to-json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert PHP configuration array files to JSON files.",
   "main": "index.js",
   "license": "MIT",
