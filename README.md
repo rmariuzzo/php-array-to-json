@@ -1,7 +1,4 @@
-<div align=center>
-  <h1>PHP array to JSON</h1>
-  <h6>Command line tools to convert PHP configuration array files into JSON files.</h6>
-</div>
+![PHP array to JSON – Command line tools to convert PHP configuration array files into JSON files.](.github/banner.svg)
 
 ## Installation
 
